@@ -33,7 +33,10 @@
 
 -  Automation – Tools combining Python + AI + Security
 
-## 📊 GitHub Activity
+## 📊 GitHub Activity — Across Repositories
+
+Public commits, pull requests, reviews, and contributions across repositories I own **and** projects maintained by others.
+
 <p align="center">
   <img
     src="./profile/stats.svg"
@@ -48,6 +51,16 @@
     height="165"
     alt="Top Languages"
   />
+</p>
+
+<p align="center">
+  <sub>Language percentages describe repository code, not only code authored by me. Private projects may not be included.</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/search?q=author%3ARafaFelisberto&type=commits">Public commits</a> •
+  <a href="https://github.com/pulls?q=is%3Apr+author%3ARafaFelisberto">Pull requests</a> •
+  <a href="https://github.com/pulls?q=is%3Apr+reviewed-by%3ARafaFelisberto">Reviews</a>
 </p>
 
 ## 🎯 Goals
