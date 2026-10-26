@@ -36,7 +36,7 @@
 ## 📊 GitHub Activity
 <p align="center">
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=RafaFelisberto&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    src="./profile/stats.svg"
     height="165"
     alt="GitHub Stats"
   />
@@ -44,7 +44,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RafaFelisberto&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    src="./profile/top-langs.svg"
     height="165"
     alt="Top Languages"
   />
